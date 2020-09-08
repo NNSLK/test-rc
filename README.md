@@ -1,1 +1,1 @@
-https://nnslk.github.io/test-rc/
+https://nnslk.github.io/test-rc/cv
