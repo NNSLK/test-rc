@@ -1,1 +1,1 @@
-https://your-github-account.github.io/test-rc/cv
+https://nnslk.github.io/test-rc/cv
